@@ -25,7 +25,7 @@ Now that you have created a workspace in the previous step, it's time to switch 
 
     - **Name:** Enter **Lakehouse**, and any extra characters to make the name unique.
 
-   ![02](./Images/01/Pg3-T1-S2.png)
+   <img src="./Images/01/Pg3-T1-S1.png" alt="Pg3-T1-S1" width="400"/>
 
     After a minute or so, a new lakehouse with no **Tables** or **Files** will be created.
 
